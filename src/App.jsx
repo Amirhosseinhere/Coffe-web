@@ -1,9 +1,10 @@
+import Hero from './components/Hero/Hero.jsx';
 function App() {
 
   return (
     <>
-        <div className="bg-red-600 h-screen w-full">
-
+        <div>
+            <Hero />
         </div>
 
     </>
