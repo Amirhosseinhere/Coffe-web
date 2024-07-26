@@ -11,7 +11,7 @@ const Navbar = () => {
                             type:"spring",
                             stiffness:100,
                             damping:10,
-                            delay:0.2,
+                            delay:1.2,
                         }}
                         className="text-2xl font-semibold">
                         اینوا
