@@ -28,8 +28,7 @@ const Hero = () => {
                                     delay: 0.8,
                                 }}
                                 className="text-7xl font-bold leading-tight mr-14"
-                            >
-                                بلک کافی
+                            > کافه تِک
                             </motion.h1>
                             <motion.div
                                 className="relative"
@@ -43,10 +42,9 @@ const Hero = () => {
                                 }}
                             >
                                 <div className="relative z-10 space-y-4">
-                                    <h1 className="text-2xl"> عاشقان لایف استایل مشکی</h1>
+                                    <h1 className="text-2xl"> بیش از یک کافه، یک تجربه فناورانه</h1>
                                     <h1 className="text-sm opacity-55 leading-loose">
-                                        بوی قهوه به قدری زیباست که نمیتونه متعلق به این جهان باشه
-                                        ..! اونم کنار یار!
+                                        مکانی که در آن عطر قهوه با نوآوری فناوری در هم می‌آمیزد، و هر فنجان داستانی از آینده را روایت می‌کند !
                                     </h1>
                                 </div>
                                 <div className=" absolute -top-6 -right-10 w-[250px] h-[180px] bg-gray-700/25"></div>
@@ -70,7 +68,7 @@ const Hero = () => {
 
                             <div className="absolute -top-16 right-[60px] z-[1]">
                                 <h1 className="text-[140px] scale-150 font-bold text-darkGray/50 leading-none">
-                                    بلک کافی
+                                    کافه تِک
                                 </h1>
                             </div>
                         </div>
@@ -87,14 +85,13 @@ const Hero = () => {
                             }}
                         >
                             <h1 className="opacity-0 text-7xl font-bold leading-tight mr-14">
-                                بلک کافی
+                                کافه تِک
                             </h1>
                             <div className="relative">
                                 <div className="relative z-10 space-y-4">
-                                    <h1 className="text-2xl"> لایف استایل مشکی</h1>
+                                    <h1 className="text-2xl">بیش از یک کافه، یک تجربه فناورانه</h1>
                                     <h1 className="text-sm opacity-55 leading-loose">
-                                        بوی قهوه به قدری زیباست که نمیتونه متعلق به این جهان باشه
-                                        ..! اونم کنار یار!
+                                        مکانی که در آن عطر قهوه با نوآوری فناوری در هم می‌آمیزد، و هر فنجان داستانی از آینده را روایت می‌کند !
                                     </h1>
                                 </div>
                                 {/* <div className=" absolute -top-6 -left-10 w-[250px] h-[180px] bg-darkGray/50"></div> */}
