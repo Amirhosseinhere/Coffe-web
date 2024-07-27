@@ -15,8 +15,8 @@ const Footer = () => {
                         className="space-y-6">
                         <h1 className="text-3xl font-bold">اینوا کافه</h1>
                         <p className="text-sm max-w-[300px]">
-                            قهوه‌ات را بنوش و باور کن من به فنجان تو نمی گنجم دیده ام در جهان
-                            نما چشمی که به تکرار می‌کشد فالم محمد علی بهمنی
+                            جایی که لذت نوشیدن قهوه با هیجان فناوری‌های پیشرفته همراه می‌شود، و هر لحظه فرصتی برای کشف
+                            دنیای دیجیتال است.
                         </p>
                         <div>
                             <p className="flex items-center gap-2 mt-2">
@@ -38,7 +38,7 @@ const Footer = () => {
                         <h1 className="text-3xl font-bold">لینک های سریع</h1>
                         <div className="grid grid-cols-2 gap-3">
                             <div>
-                                <ul className="space-y-2">
+                                <ul className="space-y-2 cursor-pointer">
                                     <li>خانه</li>
                                     <li>درباره ما</li>
                                     <li>تماس با ما</li>
@@ -54,7 +54,7 @@ const Footer = () => {
                         transition={{duration: 0.6, delay: 0.6}}
                         className="space-y-6">
                         <h1 className="text-3xl font-bold">دنبال کنید</h1>
-                        <div className="flex items-center gap-3">
+                        <div className="flex items-center gap-3 cursor-pointer">
                             <FaGithub className="text-3xl hover:scale-105 duration-300"/>
                             <FaGoogle className="text-3xl hover:scale-105 duration-300"/>
                             <FaInstagram className="text-3xl hover:scale-105 duration-300"/>
